@@ -12,7 +12,7 @@ Getting Started
 Installation
 --------------------------------------
 
-- [Download](/tahirkhan/press-engine/archive/master.zip) and extract press-engine.php
+- [Download](https://github.com/tahirkhan/press-engine/archive/master.zip) and extract press-engine.php
 - Drop it in your common require folder or in your project folder
 
 Hello World
