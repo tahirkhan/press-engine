@@ -20,7 +20,8 @@ Hello World
 
 Follow these simple steps to run a hello world example
 
-1. Create a template file greetings.tpl.php
+#### Step 1. Create a template file greetings.tpl.php
+
 ```php
 Greetings <?php echo $this->name ?>
 ```
