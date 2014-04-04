@@ -88,7 +88,8 @@ php helloworld.php
 		
 	</head>
 	<body>
-		Greetings Jay Z	</body>
+		Greetings Jay Z
+	</body>
 </html>
 ```
 
@@ -130,6 +131,7 @@ php helloworld.php
 		<title>Hello World Example</title>
 	</head>
 	<body>
-		Greetings Jay Z	</body>
+		Greetings Jay Z
+	</body>
 </html>
 ```
