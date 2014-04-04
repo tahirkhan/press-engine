@@ -45,7 +45,7 @@ php helloworld.php
 #### It should produce the following output:
 
 ```bash
-Greetings Jay Z'
+Greetings Jay Z
 ```
 
 Sandwiching Templates
